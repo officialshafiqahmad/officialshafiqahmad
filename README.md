@@ -94,7 +94,7 @@
 
 <div align="center">
 
-## 📊 EXPERIENCE METRICS
+## 📊 METRICS
 
 <br/>
 
@@ -123,6 +123,13 @@
 </tr>
 </table>
 
+<br/>
+
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f1c40f&text_color=dedede&hide_title=true" height="150"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshafiqahmad&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=dedede&hide_title=true" height="150"/>
+
 </div>
 
 <br/>
@@ -137,50 +144,18 @@
 
 <br/>
 
-<!-- Skill Progress Bars -->
-<table>
-<tr>
-<td width="140"><b>Flutter</b></td>
-<td width="400">
-<img src="https://progress-bar.xyz/95/?width=350&color=02569B"/>
-</td>
-</tr>
-<tr>
-<td><b>Dart</b></td>
-<td>
-<img src="https://progress-bar.xyz/95/?width=350&color=0175C2"/>
-</td>
-</tr>
-<tr>
-<td><b>Firebase</b></td>
-<td>
-<img src="https://progress-bar.xyz/90/?width=350&color=FFCA28"/>
-</td>
-</tr>
-<tr>
-<td><b>Node.js</b></td>
-<td>
-<img src="https://progress-bar.xyz/85/?width=350&color=339933"/>
-</td>
-</tr>
-<tr>
-<td><b>UI/UX Design</b></td>
-<td>
-<img src="https://progress-bar.xyz/90/?width=350&color=F24E1E"/>
-</td>
-</tr>
-<tr>
-<td><b>Clean Arch</b></td>
-<td>
-<img src="https://progress-bar.xyz/92/?width=350&color=764ba2"/>
-</td>
-</tr>
-</table>
+<!-- Tech Icons Large -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,nodejs,firebase,mongodb,supabase,figma,git&theme=dark&perline=10" height="60"/>
 
-<br/>
+<br/><br/>
 
-<!-- Tech Icons -->
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,nodejs,mongodb,figma,git&theme=dark&perline=8" height="55"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Bloc_/_Cubit-764ba2?style=for-the-badge" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MVVM-00b894?style=for-the-badge" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-f1c40f?style=for-the-badge&labelColor=0d1117" height="28"/>
 
 </div>
 
