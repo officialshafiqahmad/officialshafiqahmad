@@ -1,120 +1,114 @@
 <div align="center">
 
-<h1>Shafiq Ahmad</h1>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION 1: WHO IS THIS? (Answer in 2 seconds)
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<b>Senior Full Stack App Developer</b><br/>
-Flutter · Backend · UI/UX
+# Shafiq Ahmad
 
-🟢 <b>Available for Freelance & Remote Work</b>
+**Senior Full Stack App Developer**<br/>
+<sub>I build apps that make money</sub>
 
-<p>
-<a href="https://www.linkedin.com/in/offshafiqahmad">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.fiverr.com/offshafiqahmad">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white"/>
-</a>
-<a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white"/>
-</a>
-<a href="mailto:officialshafiqahmad@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"/>
-</a>
-</p>
+<br/>
+
+<!-- AVAILABILITY STATUS - Clients need to know this FIRST -->
+<img src="https://img.shields.io/badge/🟢_AVAILABLE_NOW-Hire_Me-00C853?style=for-the-badge&labelColor=1a1a1a" height="35"/>
+
+<br/><br/>
+
+<!-- CONTACT - Don't make them scroll for this -->
+<a href="https://www.fiverr.com/offshafiqahmad"><img src="https://img.shields.io/badge/Fiverr-Level 2_%E2%AD%904.8-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="28"/></a>
+<a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="28"/></a>
+<a href="https://www.linkedin.com/in/offshafiqahmad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+<a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/Email-Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 
 </div>
 
----
+<br/>
 
-<table width="100%">
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION 2: CAN THEY BUILD MY APP? + HAVE OTHERS TRUSTED THEM?
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<table>
 <tr>
 
-<td width="50%" valign="top">
+<!-- LEFT: TRUST METRICS (Numbers speak louder than words) -->
+<td width="50%" align="center">
 
-## 👋 About Me
+<br/>
 
-I’m a **Senior Software Engineer** with **6+ years of real-world experience** building high-performance mobile applications and backend systems.
+<img src="https://img.shields.io/badge/6+-YEARS-667eea?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+<img src="https://img.shields.io/badge/62+-CLIENTS-00C853?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+<img src="https://img.shields.io/badge/30+-COUNTRIES-FF6B6B?style=for-the-badge&labelColor=1a1a1a" height="45"/>
 
-I help **startups and businesses** launch scalable, production-ready apps — from idea to store release.
+<br/><br/>
 
-Most professional work is under **NDA**, so this GitHub focuses on **credibility, skills, and architecture**, not client source code.
+| | |
+|:--|:--|
+| ⭐ | **Fiverr Level 2** — 4.8★ Rating |
+| 🎖️ | 🏆 National Champion — UI/UX Design 2022 |
+| 🎖️ | 🏆 National Champion — App Development 2025 |
+| 🎖️ | 📜 IELTS Certified — Band 6.5 |
+
+<br/>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- RIGHT: WHAT I BUILD -->
+<td width="50%" align="center">
 
-## ⭐ Why Clients Choose Me
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/Experience-6%2B%20Years-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clients-62%2B-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Countries-30%2B-informational?style=for-the-badge"/>
-</p>
+### What I Build
 
-- 🌍 Worked with **international clients across 30+ countries**
-- ⭐ **Level 2 Seller on Fiverr (4.8★ rating)**
-- 🏢 Experience with **3 software companies**
-- 🎓 **IELTS Certified** (Band 6.5)
-- 🎨 **UI/UX Design Competition Winner**
-  - 🥇 2022
-  - 🥇 2025
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,figma&theme=dark" height="50"/>
+
+<br/><br/>
+
+**Mobile Apps** · **Backend APIs** · **UI/UX Design**
+
+<sub>Flutter • Firebase • Node.js • Clean Architecture</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshafiqahmad&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=4" width="280"/>
+
+<br/>
 
 </td>
 
 </tr>
 </table>
 
----
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛠 Technology Stack
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin,nodejs,firebase,mongodb,figma,git,github,azure&perline=6"/>
-
-### Architecture
-- Clean Architecture
-- Bloc / Cubit / Provider
-- MVVM
-
-### Quality
-- Widget & Bloc testing
-- Repository & use-case testing
-- **1000+ automated test cases**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📊 Code Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshafiqahmad&layout=compact&hide_progress=true&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&hide_rank=true&hide_title=true&theme=transparent&include_all_commits=true"/>
-
-</td>
-
-</tr>
-</table>
-
----
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION 3: CALL TO ACTION (Make it easy to hire)
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 📬 Let’s Work Together
+<br/>
+
+---
+
+<br/>
+
+### Ready to build your app?
 
 <a href="https://www.fiverr.com/offshafiqahmad">
-  <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr"/>
+<img src="https://img.shields.io/badge/📱_START_PROJECT-Fiverr-1DBF73?style=for-the-badge" height="40"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a">
-  <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork"/>
+<img src="https://img.shields.io/badge/💼_START_PROJECT-Upwork-14A800?style=for-the-badge" height="40"/>
 </a>
+&nbsp;&nbsp;
+<a href="mailto:officialshafiqahmad@gmail.com">
+<img src="https://img.shields.io/badge/✉️_DIRECT_CONTACT-Email-EA4335?style=for-the-badge" height="40"/>
+</a>
+
+<br/><br/>
+
+<sub>Response time: Usually within 2 hours</sub>
 
 </div>
-
-<sub>
-Designed for fast client scanning, credibility, and professional trust.
-</sub>
