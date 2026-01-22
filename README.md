@@ -16,25 +16,46 @@
 
 ---
 
-<h2 align="center">🏆 About Me & Achievements</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/6%2B-YEARS_EXPERIENCE-58A6FF?style=for-the-badge&labelColor=1a1a2e" height="45"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/62%2B-CLIENTS_WORLDWIDE-1DBF73?style=for-the-badge&labelColor=1a1a2e" height="45"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/30%2B-COUNTRIES_SERVED-FF6B6B?style=for-the-badge&labelColor=1a1a2e" height="45"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/4.8★-FIVERR_RATING-FFD700?style=for-the-badge&labelColor=1a1a2e" height="45"/>
+  <img src="https://github.com/officialshafiqahmad/officialshafiqahmad/assets/achievement-champion-2025.svg" onerror="this.style.display='none'" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_NATIONAL_CHAMPION-App_Development_2025-FFD700?style=for-the-badge&labelColor=1a1a2e" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🏆_NATIONAL_CHAMPION-UI%2FUX_Design_2022-FFD700?style=for-the-badge&labelColor=1a1a2e" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📜_IELTS_CERTIFIED-Band_6.5-00C853?style=for-the-badge&labelColor=1a1a2e" height="40"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🥇-FFD700?style=flat-square" height="60"/>
+<br/><b>App Dev</b>
+<br/><sub>Champion 2025</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🥇-FFD700?style=flat-square" height="60"/>
+<br/><b>UI/UX</b>
+<br/><sub>Champion 2022</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📜-00C853?style=flat-square" height="60"/>
+<br/><b>IELTS</b>
+<br/><sub>Band 6.5</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐-1DBF73?style=flat-square" height="60"/>
+<br/><b>Fiverr</b>
+<br/><sub>Level 2 • 4.8★</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌍-58A6FF?style=flat-square" height="60"/>
+<br/><b>Global</b>
+<br/><sub>30+ Countries</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/👥-FF6B6B?style=flat-square" height="60"/>
+<br/><b>Clients</b>
+<br/><sub>62+ Served</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <b>I build production-ready mobile apps for startups and businesses worldwide. From idea → App Store.</b>
