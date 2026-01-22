@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://www.fiverr.com/offshafiqahmad"><img src="https://img.shields.io/badge/Fiverr-Level_2_%E2%AD%90_4.8-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35"/></a>
-  <a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="35"/></a>
-  <a href="https://www.linkedin.com/in/offshafiqahmad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+  <a href="https://www.upwork.com/freelancers/shafiqahmad"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="35"/></a>
+  <a href="https://www.linkedin.com/in/offshafiqahmad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
   <a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+  <a href="https://www.instagram.com/officialshafiqahmad/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/></a>
 </p>
 
 <p align="center">
@@ -15,7 +16,6 @@
 
 ---
 
-<!-- ROW 1: ABOUT + ACHIEVEMENTS (Combined, Full Width) -->
 <h2 align="center">🏆 About Me & Achievements</h2>
 
 <p align="center">
@@ -42,7 +42,6 @@
 
 ---
 
-<!-- ROW 2: TECH STACK + LANGUAGES (Combined) -->
 <h2 align="center">🛠️ Tech Stack & Languages</h2>
 
 <table>
@@ -76,16 +75,6 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">📈 Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialshafiqahmad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=1F6FEB" width="100%"/>
-</p>
-
----
-
-<!-- CTA -->
 <h2 align="center">🚀 Let's Build Something Amazing</h2>
 
 <p align="center">
@@ -93,7 +82,7 @@
     <img src="https://img.shields.io/badge/📱_Hire_on_Fiverr-1DBF73?style=for-the-badge&logoColor=white" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a">
+  <a href="https://www.upwork.com/freelancers/shafiqahmad">
     <img src="https://img.shields.io/badge/💼_Hire_on_Upwork-14A800?style=for-the-badge&logoColor=white" height="50"/>
   </a>
   &nbsp;&nbsp;
