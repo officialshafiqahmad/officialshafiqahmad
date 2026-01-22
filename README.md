@@ -13,54 +13,47 @@
   <img src="https://img.shields.io/badge/🟢_AVAILABLE_FOR_HIRE-000?style=for-the-badge" height="28"/>
 </p>
 
-<br/>
+---
 
-<!-- ABOUT + STATS -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h2>🏆 About Me</h2>
+### 🏆 About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Experience-6%2B_Years-58A6FF?style=flat-square&labelColor=1a1a2e" height="25"/>
-  <img src="https://img.shields.io/badge/Clients-62%2B_Worldwide-1DBF73?style=flat-square&labelColor=1a1a2e" height="25"/>
-  <img src="https://img.shields.io/badge/Countries-30%2B-FF6B6B?style=flat-square&labelColor=1a1a2e" height="25"/>
-</p>
+<img src="https://img.shields.io/badge/Experience-6%2B_Years-58A6FF?style=flat-square&labelColor=1a1a2e" height="25"/>
+<img src="https://img.shields.io/badge/Clients-62%2B_Worldwide-1DBF73?style=flat-square&labelColor=1a1a2e" height="25"/>
+<img src="https://img.shields.io/badge/Countries-30%2B-FF6B6B?style=flat-square&labelColor=1a1a2e" height="25"/>
 
 **🏆 National Champion** — App Development 2025  
 **🏆 National Champion** — UI/UX Design 2022  
 **📜 IELTS Certified** — Band 6.5  
 **⭐ Fiverr Level 2** — 4.8★ Rating  
 
-<br/>
-
-**I build production-ready mobile apps** for startups and businesses worldwide. From idea → App Store.
+**I build production-ready mobile apps** for startups and businesses worldwide.
 
 </td>
 <td width="50%" valign="top">
 
-<h2>📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=officialshafiqahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=officialshafiqahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,kotlin,java,android,figma,git,github,vscode&perline=6&theme=dark" height="120"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,kotlin&theme=dark" height="60"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,figma,git,github,vscode&theme=dark" height="60"/>
 </p>
 
 <p align="center">
@@ -70,14 +63,13 @@
   <img src="https://img.shields.io/badge/CI%2FCD-1DBF73?style=for-the-badge" height="28"/>
 </p>
 
-<br/>
+---
 
-<!-- LANGUAGES + ACTIVITY -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h2 align="center">💻 Languages</h2>
+### 💻 Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshafiqahmad&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
@@ -86,29 +78,31 @@
 </td>
 <td width="50%" valign="top">
 
-<h2 align="center">🏅 Trophies</h2>
+### 🏅 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=officialshafiqahmad&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=10" width="100%"/>
-</p>
+| Award | Year |
+|:------|:----:|
+| 🏆 **App Development Champion** | 2025 |
+| 🏆 **UI/UX Design Champion** | 2022 |
+| 📜 **IELTS Band 6.5** | ✓ |
+| ⭐ **62+ Global Clients** | ✓ |
+| 🌍 **30+ Countries Served** | ✓ |
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">📈 Activity</h2>
+### 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialshafiqahmad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=1F6FEB" width="100%"/>
 </p>
 
-<br/>
+---
 
-<!-- CTA -->
-<h2 align="center">🚀 Let's Build Something Amazing</h2>
+### 🚀 Let's Build Something Amazing
 
 <p align="center">
   <a href="https://www.fiverr.com/offshafiqahmad">
@@ -127,8 +121,6 @@
 <p align="center">
   <sub>💬 Response time: Usually within 2 hours</sub>
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=officialshafiqahmad&color=58A6FF&style=flat-square&label=Profile+Views"/>
