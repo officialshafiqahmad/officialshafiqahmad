@@ -18,10 +18,6 @@
 
 <h2 align="center">🏆 Achievements</h2>
 
-<p align="center">
-  <img src="https://github.com/officialshafiqahmad/officialshafiqahmad/assets/achievement-champion-2025.svg" onerror="this.style.display='none'" />
-</p>
-
 <table align="center">
 <tr>
 <td align="center">
