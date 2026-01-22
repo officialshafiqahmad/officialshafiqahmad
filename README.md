@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
-
-<h2>Shafiq Ahmad</h2>
+<h1>Shafiq Ahmad</h1>
 
 <b>Senior Full Stack App Developer</b><br/>
 Flutter · Backend · UI/UX
@@ -33,26 +31,33 @@ Flutter · Backend · UI/UX
 
 <td width="50%" valign="top">
 
-### 🏆 Why Clients Choose Me
+## 👋 About Me
 
-- 💼 **6+ years** real-world experience  
-- 🏢 Worked with **3 software companies**  
-- 🌍 International freelance clients  
-- ⭐ **Level 2 Seller on Fiverr (4.8★)**  
-- 🎓 **IELTS Certified (Band 6.5)**  
-- 🎨 **UI/UX Competition Winner**  
-  - 2022  
-  - 2025  
+I’m a **Senior Software Engineer** with **6+ years of real-world experience** building high-performance mobile applications and backend systems.
+
+I help **startups and businesses** launch scalable, production-ready apps — from idea to store release.
+
+Most professional work is under **NDA**, so this GitHub focuses on **credibility, skills, and architecture**, not client source code.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Engineering Activity
+## ⭐ Why Clients Choose Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&hide_rank=true&hide_title=true&theme=transparent&include_all_commits=true" />
+<p>
+<img src="https://img.shields.io/badge/Experience-6%2B%20Years-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clients-62%2B-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Countries-30%2B-informational?style=for-the-badge"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=officialshafiqahmad&theme=transparent&hide_border=true" />
+- 🌍 Worked with **international clients across 30+ countries**
+- ⭐ **Level 2 Seller on Fiverr (4.8★ rating)**
+- 🏢 Experience with **3 software companies**
+- 🎓 **IELTS Certified** (Band 6.5)
+- 🎨 **UI/UX Design Competition Winner**
+  - 🥇 2022
+  - 🥇 2025
 
 </td>
 
@@ -66,28 +71,29 @@ Flutter · Backend · UI/UX
 
 <td width="50%" valign="top">
 
-### 🛠 Technology Stack
+## 🛠 Technology Stack
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin,nodejs,firebase,mongodb,figma,git,github,azure&perline=6"/>
 
-**Architecture**
+### Architecture
 - Clean Architecture
 - Bloc / Cubit / Provider
 - MVVM
 
-**Quality**
+### Quality
 - Widget & Bloc testing
-- 1000+ automated test cases
+- Repository & use-case testing
+- **1000+ automated test cases**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📈 Code Distribution
+## 📊 Code Distribution
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshafiqahmad&layout=compact&hide_progress=true&theme=transparent"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialshafiqahmad&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&hide_rank=true&hide_title=true&theme=transparent&include_all_commits=true"/>
 
 </td>
 
@@ -96,22 +102,19 @@ Flutter · Backend · UI/UX
 
 ---
 
-### 📱 Shipped Products (Public Info)
+<div align="center">
 
-| Product | What It Is |
-|------|------------|
-| **Advyro** | AI-powered ad creation platform |
-| **Papeo-Party** | Event discovery & social app |
-| **Bald Filter** | AI hairstyle preview |
-| **Wheel Guard** | IoT wheelchair safety system |
+### 📬 Let’s Work Together
 
-> Client source code is private due to NDAs.
+<a href="https://www.fiverr.com/offshafiqahmad">
+  <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a">
+  <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork"/>
+</a>
 
----
+</div>
 
-### 📬 Contact (Fastest Response)
-
-- LinkedIn → https://www.linkedin.com/in/offshafiqahmad  
-- Fiverr → https://www.fiverr.com/offshafiqahmad  
-- Upwork → https://www.upwork.com/freelancers/~013cdaf2ac59ca781a  
-- Email → officialshafiqahmad@gmail.com
+<sub>
+Designed for fast client scanning, credibility, and professional trust.
+</sub>
