@@ -1,37 +1,36 @@
 <div align="center">
 
-<!-- Clean Modern Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f23,50:1a1a3e,100:2d1b4e&height=120&section=header&text=SHAFIQ%20AHMAD&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f23,50:1a1a3e,100:2d1b4e&height=100&section=header&text=SHAFIQ%20AHMAD&fontSize=40&fontColor=ffffff&fontAlignY=55"/>
 
 <br/>
 
-### `Senior Full Stack App Developer` · `6+ Years Experience`
+### `Senior Full Stack App Developer` &nbsp; · &nbsp; `6+ Years`
 
 <br/>
 
-<!-- HERO BADGES - What makes you DIFFERENT -->
-<img src="https://img.shields.io/badge/🏆_NATIONAL_CHAMPION-UI%2FUX_Design_2022-f1c40f?style=flat-square&labelColor=2c2c54" height="28"/>
+<!-- VERIFIED BADGES -->
+<img src="https://img.shields.io/badge/✓_VERIFIED-IELTS_Band_6.5-00b894?style=for-the-badge&labelColor=0d1117" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🏆_NATIONAL_CHAMPION-App_Development_2025-f1c40f?style=flat-square&labelColor=2c2c54" height="28"/>
+<img src="https://img.shields.io/badge/✓_VERIFIED-Fiverr_Level_2-1dbf73?style=for-the-badge&labelColor=0d1117" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🎓_IELTS_CERTIFIED-Band_6.5-2ecc71?style=flat-square&labelColor=2c2c54" height="28"/>
-
-<br/><br/>
-
-<!-- Contact Row -->
-<a href="https://www.fiverr.com/offshafiqahmad"><img src="https://img.shields.io/badge/Fiverr-Level_2_•_4.8★-1dbf73?style=flat-square&logo=fiverr&logoColor=white"/></a>
-&nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a"><img src="https://img.shields.io/badge/Upwork-Top_Rated-6fda44?style=flat-square&logo=upwork&logoColor=white"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/offshafiqahmad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-&nbsp;&nbsp;
-<a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/✓_VERIFIED-6%2B_Years_Exp-667eea?style=for-the-badge&labelColor=0d1117" height="32"/>
 
 <br/><br/>
 
 ```diff
-+ 🟢 AVAILABLE FOR FREELANCE & REMOTE WORK
++ 🟢 OPEN FOR FREELANCE & REMOTE OPPORTUNITIES
 ```
+
+<br/>
+
+<!-- Quick Contact -->
+<a href="https://www.fiverr.com/offshafiqahmad"><img src="https://img.shields.io/badge/Fiverr-1dbf73?style=flat-square&logo=fiverr&logoColor=white" height="24"/></a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" height="24"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/offshafiqahmad"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" height="24"/></a>
+&nbsp;
+<a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" height="24"/></a>
 
 </div>
 
@@ -41,73 +40,198 @@
 
 <br/>
 
+<div align="center">
+
+## 🏆 ACHIEVEMENTS
+
+<br/>
+
 <table>
 <tr>
-<td valign="top" width="55%">
-
-### ⚡ Quick Facts
-
-```yaml
-Experience:     6+ Years (Professional & Freelance)
-Companies:      3 Software Firms
-Tests Written:  1000+ Automated Tests
-Clients:        Global (Fiverr & Upwork)
-Rating:         4.8★ on Fiverr
-```
-
-### 🏅 Achievements
-
-| Year | Award |
-|:-----|:------|
-| `2025` | 🥇 **App Development** — National Level |
-| `2022` | 🥇 **UI/UX Design** — National Level |
-| `—` | 📜 **IELTS** — Band 6.5 Certified |
-
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/🥇-1A1A2E?style=flat-square" height="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-FFD700?style=for-the-badge" height="28"/>
+<br/>
+<img src="https://img.shields.io/badge/NATIONAL_CHAMPION-1a1a2e?style=flat-square" height="22"/>
+<br/>
+<img src="https://img.shields.io/badge/2022-333333?style=flat-square" height="20"/>
+<br/><br/>
 </td>
-<td valign="top" width="45%">
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/🥇-1A1A2E?style=flat-square" height="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/APP_DEVELOPMENT-FFD700?style=for-the-badge" height="28"/>
+<br/>
+<img src="https://img.shields.io/badge/NATIONAL_CHAMPION-1a1a2e?style=flat-square" height="22"/>
+<br/>
+<img src="https://img.shields.io/badge/2025-333333?style=flat-square" height="20"/>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/📜-1A1A2E?style=flat-square" height="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/IELTS_CERTIFIED-00b894?style=for-the-badge" height="28"/>
+<br/>
+<img src="https://img.shields.io/badge/BAND_6.5-1a1a2e?style=flat-square" height="22"/>
+<br/>
+<img src="https://img.shields.io/badge/ENGLISH-333333?style=flat-square" height="20"/>
+<br/><br/>
+</td>
+</tr>
+</table>
 
-### 📈 Activity
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=dedede&icon_color=f1c40f"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&hide_title=true&hide_border=true"/>
-</picture>
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=officialshafiqahmad&hide_border=true&background=00000000&ring=f1c40f&fire=f39c12&currStreakLabel=dedede&sideLabels=dedede&currStreakNum=dedede&sideNums=dedede&dates=888888"/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=officialshafiqahmad&hide_border=true"/>
-</picture>
+---
 
+<br/>
+
+<div align="center">
+
+## 📊 EXPERIENCE METRICS
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/6%2B-667eea?style=for-the-badge&labelColor=0d1117" height="50"/>
+<br/>
+<sub><b>YEARS</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/3-764ba2?style=for-the-badge&labelColor=0d1117" height="50"/>
+<br/>
+<sub><b>COMPANIES</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/1000%2B-00b894?style=for-the-badge&labelColor=0d1117" height="50"/>
+<br/>
+<sub><b>TESTS</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/4.8★-f1c40f?style=for-the-badge&labelColor=0d1117" height="50"/>
+<br/>
+<sub><b>RATING</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🛠️ SKILLS
+
+<br/>
+
+<!-- Skill Progress Bars -->
+<table>
+<tr>
+<td width="140"><b>Flutter</b></td>
+<td width="400">
+<img src="https://progress-bar.xyz/95/?width=350&color=02569B"/>
+</td>
+</tr>
+<tr>
+<td><b>Dart</b></td>
+<td>
+<img src="https://progress-bar.xyz/95/?width=350&color=0175C2"/>
+</td>
+</tr>
+<tr>
+<td><b>Firebase</b></td>
+<td>
+<img src="https://progress-bar.xyz/90/?width=350&color=FFCA28"/>
+</td>
+</tr>
+<tr>
+<td><b>Node.js</b></td>
+<td>
+<img src="https://progress-bar.xyz/85/?width=350&color=339933"/>
+</td>
+</tr>
+<tr>
+<td><b>UI/UX Design</b></td>
+<td>
+<img src="https://progress-bar.xyz/90/?width=350&color=F24E1E"/>
+</td>
+</tr>
+<tr>
+<td><b>Clean Arch</b></td>
+<td>
+<img src="https://progress-bar.xyz/92/?width=350&color=764ba2"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
+<!-- Tech Icons -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,nodejs,mongodb,figma,git&theme=dark&perline=8" height="55"/>
+
+</div>
+
+<br/>
+
 ---
 
 <br/>
 
 <div align="center">
 
-### 🛠️ Stack
+## 📱 SHIPPED APPS
 
 <br/>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📱-1A1A2E?style=flat-square" height="50"/>
 <br/><br/>
+<b>Advyro</b>
+<br/>
+<sub>AI Ad Platform</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎉-1A1A2E?style=flat-square" height="50"/>
+<br/><br/>
+<b>Papeo-Party</b>
+<br/>
+<sub>Social Events</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/✨-1A1A2E?style=flat-square" height="50"/>
+<br/><br/>
+<b>Bald Filter</b>
+<br/>
+<sub>AI Hairstyle</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛡️-1A1A2E?style=flat-square" height="50"/>
+<br/><br/>
+<b>Wheel Guard</b>
+<br/>
+<sub>IoT Safety</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Clean_Architecture-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bloc_/_Cubit-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVVM-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/CI%2FCD-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/Figma-374151?style=flat-square"/>
+<br/>
+
+<sub>🔒 Source code under NDA</sub>
 
 </div>
 
@@ -119,32 +243,9 @@ Rating:         4.8★ on Fiverr
 
 <div align="center">
 
-### 📱 Shipped Products
-
-| **Advyro** | **Papeo-Party** | **Bald Filter** | **Wheel Guard** |
-|:----------:|:---------------:|:---------------:|:---------------:|
-| AI Ad Platform | Social Events | AI Hairstyle | IoT Safety |
-| *2 Apps* | *Production* | *Personal* | *Hardware* |
-
-<br/>
-
-<sub>🔒 Source code under NDA · Portfolio available on request</sub>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<br/>
-
-**Let's build something great together.**
-
-<br/>
-
-<a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/📧_Get_In_Touch-000000?style=for-the-badge"/></a>
+<a href="mailto:officialshafiqahmad@gmail.com">
+<img src="https://img.shields.io/badge/📧_HIRE_ME-667eea?style=for-the-badge" height="45"/>
+</a>
 
 <br/><br/>
 
