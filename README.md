@@ -1,96 +1,151 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Shafiq%20Ahmad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20Full%20Stack%20App%20Developer%20•%206%2B%20Years&descAlignY=50&descSize=20"/>
+<!-- Clean Modern Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f23,50:1a1a3e,100:2d1b4e&height=120&section=header&text=SHAFIQ%20AHMAD&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=&descAlignY=70"/>
 
-<!-- Achievement Badges - THE HOOK -->
-<p>
-<img src="https://img.shields.io/badge/🏆_UI%2FUX_2022-NATIONAL_WINNER-FFD700?style=for-the-badge&labelColor=1a1a2e" height="35"/>
-<img src="https://img.shields.io/badge/🏆_APP_DEV_2025-NATIONAL_WINNER-FFD700?style=for-the-badge&labelColor=1a1a2e" height="35"/>
-<img src="https://img.shields.io/badge/📜_IELTS-BAND_6.5_CERTIFIED-00b894?style=for-the-badge&labelColor=1a1a2e" height="35"/>
-</p>
+<br/>
 
-<!-- Platform Badges -->
-<a href="https://www.fiverr.com/offshafiqahmad"><img src="https://img.shields.io/badge/FIVERR-Level_2_⭐4.8-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="30"/></a>
-<a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a"><img src="https://img.shields.io/badge/UPWORK-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="30"/></a>
-<a href="https://www.linkedin.com/in/offshafiqahmad"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
+### `Senior Full Stack App Developer` · `6+ Years Experience`
+
+<br/>
+
+<!-- HERO BADGES - What makes you DIFFERENT -->
+<img src="https://img.shields.io/badge/🏆_NATIONAL_CHAMPION-UI%2FUX_Design_2022-f1c40f?style=flat-square&labelColor=2c2c54" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆_NATIONAL_CHAMPION-App_Development_2025-f1c40f?style=flat-square&labelColor=2c2c54" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_IELTS_CERTIFIED-Band_6.5-2ecc71?style=flat-square&labelColor=2c2c54" height="28"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🟢_AVAILABLE_FOR_HIRE-Freelance_&_Remote-667eea?style=for-the-badge" height="32"/>
+<!-- Contact Row -->
+<a href="https://www.fiverr.com/offshafiqahmad"><img src="https://img.shields.io/badge/Fiverr-Level_2_•_4.8★-1dbf73?style=flat-square&logo=fiverr&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~013cdaf2ac59ca781a"><img src="https://img.shields.io/badge/Upwork-Top_Rated-6fda44?style=flat-square&logo=upwork&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/offshafiqahmad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+```diff
++ 🟢 AVAILABLE FOR FREELANCE & REMOTE WORK
+```
 
 </div>
 
+<br/>
+
 ---
 
-<table width="100%">
+<br/>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="55%">
 
-## 🏆 Why Clients Choose Me
+### ⚡ Quick Facts
 
-| Metric | Value |
-|:-------|:------|
-| 💼 **Experience** | 6+ Years |
-| 🏢 **Software Firms** | 3 Companies |
-| ✅ **Automated Tests** | 1000+ Written |
-| 🌍 **Reach** | Global Clients |
+```yaml
+Experience:     6+ Years (Professional & Freelance)
+Companies:      3 Software Firms
+Tests Written:  1000+ Automated Tests
+Clients:        Global (Fiverr & Upwork)
+Rating:         4.8★ on Fiverr
+```
 
-### 🥇 Awards & Certifications
-- 🏆 **UI/UX Design** — National Champion 2022
-- 🏆 **App Development** — National Champion 2025
-- 📜 **IELTS** — Band 6.5 Certified
-- ⭐ **Fiverr** — Level 2 Seller (4.8★)
+### 🏅 Achievements
+
+| Year | Award |
+|:-----|:------|
+| `2025` | 🥇 **App Development** — National Level |
+| `2022` | 🥇 **UI/UX Design** — National Level |
+| `—` | 📜 **IELTS** — Band 6.5 Certified |
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="45%">
 
-## 📊 GitHub Stats
+### 📈 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=dedede&icon_color=f1c40f"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=officialshafiqahmad&show_icons=true&hide_title=true&hide_border=true"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=officialshafiqahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=officialshafiqahmad&hide_border=true&background=00000000&ring=f1c40f&fire=f39c12&currStreakLabel=dedede&sideLabels=dedede&currStreakNum=dedede&sideNums=dedede&dates=888888"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=officialshafiqahmad&hide_border=true"/>
+</picture>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-## 🛠️ Tech Stack
+### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,nodejs,firebase,mongodb,supabase,figma,git,github,azure&perline=12" />
+<br/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Clean_Architecture-764ba2?style=for-the-badge" height="26"/>
-<img src="https://img.shields.io/badge/Bloc_/_Cubit-667eea?style=for-the-badge" height="26"/>
-<img src="https://img.shields.io/badge/MVVM-00b894?style=for-the-badge" height="26"/>
-<img src="https://img.shields.io/badge/CI%2FCD-ff6b6b?style=for-the-badge" height="26"/>
-<img src="https://img.shields.io/badge/Play_Store_&_App_Store-0D1117?style=for-the-badge" height="26"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bloc_/_Cubit-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVVM-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI%2FCD-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Figma-374151?style=flat-square"/>
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 📱 Shipped Products
+
+| **Advyro** | **Papeo-Party** | **Bald Filter** | **Wheel Guard** |
+|:----------:|:---------------:|:---------------:|:---------------:|
+| AI Ad Platform | Social Events | AI Hairstyle | IoT Safety |
+| *2 Apps* | *Production* | *Personal* | *Hardware* |
+
+<br/>
+
+<sub>🔒 Source code under NDA · Portfolio available on request</sub>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 📱 Production Apps
+<br/>
 
-| Advyro | Papeo-Party | Bald Filter | Wheel Guard |
-|:------:|:-----------:|:-----------:|:-----------:|
-| AI Ad Creation | Social Events | AI Hairstyle | IoT Safety |
+**Let's build something great together.**
 
-<sub>🔒 Commercial code private (NDAs) • Portfolio on request</sub>
+<br/>
 
-</div>
+<a href="mailto:officialshafiqahmad@gmail.com"><img src="https://img.shields.io/badge/📧_Get_In_Touch-000000?style=for-the-badge"/></a>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+<br/><br/>
 
 </div>
